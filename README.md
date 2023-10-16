@@ -27,10 +27,8 @@ This will install all the dependencies for all the tasks, _it might take a while
 ```sh
 $ npx cypress open
 ```
-- Run this command and wait until the next image wouldn't open:
-  ![form](./imgs/welcome_to_Cypress.png)
+- Run this command and wait.
   When this window would be opened, press on the "E2E Testing" box.
 
 - After that, you should see the window where you could choose one of the browsers which will be created a test simulation.
-  ![form](./imgs/choose_a_browser.png)
-  For this prooject I use Firefox
+  For this prooject I used Firefox
